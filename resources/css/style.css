@@ -27,3 +27,8 @@ p {
   color: Aquamarine;
   font-size: 16px;
 }
+
+.copyright {
+  text-align: right;
+  color: gray;
+}
